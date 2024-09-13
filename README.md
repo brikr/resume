@@ -8,7 +8,7 @@ Currently based in Seattle, WA.
 
 ## Experience
 
-### Staff Software Engineer - Affirm _(Apr 2022 - Present)_
+### Staff Software Engineer - Affirm _(Apr 2022 - Aug 2022)_
 React, TypeScript, Chrome Browser Extensions
 - Contributed to the [Affirm Browser Extension](https://chrome.google.com/webstore/detail/affirm-buy-now-pay-later/cmfijaapnnkcglahdngmjnhkfnkihkbg), which makes the Affirm BNPL product accessible on any site for 90k+ users.
 - Used past experience to design and document a more refined release process for the browser extension, reducing average engineer load and providing a runbook for handling production incidents.
